@@ -36,6 +36,7 @@ Desenvolvedor Full Stack com experiência em projetos com Flutter, Spring Boot, 
 - [Flutter Testing](https://github.com/FelipeHiroshi13/Flutter_Testing)
 - [Todo List Bloc](https://github.com/FelipeHiroshi13/todo_list_bloc)
 - [Open Weather Bloc](https://github.com/FelipeHiroshi13/Open_weather_bloc_listener)
+- [Number Trivia](https://github.com/FelipeHiroshi13/Number_trivia)
 
 
 
